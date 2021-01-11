@@ -2,6 +2,7 @@
 void main()
 {
 print("hello");
+printf("bye,bye"):
 }
 
 
